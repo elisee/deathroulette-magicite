@@ -1,0 +1,60 @@
+{
+  "title": "Magicite",
+  "hostBetId": "Hazards_Success_Victory",
+  "groups": {
+    "Hazards": {
+      "bets": 5,
+      "size": { "width": 50, "height": 50 },
+      "categories": {
+        "Monsters": [
+          "Slime", "Green Spider", "Boar", "Bee", "Jumping Shroom", "Shroom Soldier", "Shroom Mage", "Tiki Mage", "Tiki Clubsman", "Purple Spider", "Bat", "Crystal Bat", "Skeleton Warrior", "Minotaur",
+          "Genie", "Blue Slime", "Crystal Golem", "Cosmic Skeleton", "Space Butterfly", "Dragon", "Fire Ox", "Fire Imp", "Ice Fairy", "Jellyfish", "Mimic", "Rock Crab",
+          "Skeleton Archer", "Scourge Ghoul", "Scourge Worm", "Scourge Head", "Scourge"
+        ],
+
+        "Traps and Accidents": [
+          "Spike Block",
+          "Snow Ball",
+          "Purple Poison",
+          "Spiky Ball",
+          "Poison"
+        ],
+
+        "Mini-bosses": [
+          "Tyrannox",
+          "Percyl",
+          "Ice Queen",
+          "Giant Yeti",
+          "Broodmother",
+          "Black Dragon",
+          "Crystallized Hero",
+          "The Skeleton King",
+          "Space Commander"
+        ],
+
+        "Boss": [
+          "Scourge Wall"
+        ],
+
+        "Success": [ "Victory" ]
+      }
+    },
+
+    "Biomes": {
+      "bets": 2,
+      "size": { "width": 150, "height": 84 },
+      "all": [
+        "Forest",
+        "Swamp",
+        "Tundra",
+        "Veldt",
+        "Cave",
+        "Volcano",
+        "Crystal Quarry",
+        "Crater",
+        "Dungeon",
+        "Scourge Lair"
+      ]
+    }
+  }
+}
